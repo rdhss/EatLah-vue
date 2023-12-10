@@ -1,24 +1,40 @@
-# cart-system2
+<h1 align="center">
+  RipeBites
+</h1>
 
-## Project setup
-```
-npm install
-```
+## Description
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+RipeBites is webapp that allows customers to order food from restaurants, cafes, and other food establishments and have it delivered directly to their doorstep
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Built With
 
-### Lints and fixes files
-```
-npm run lint
-```
+- [Next.js]
+- [Tailwindcss]
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Demo
+<div align="center">
+  <img alt="Logo" src="./src/assets/eatlah-1.png" />
+</div>
+
+<div align="center">
+  <img alt="Logo" src="./src/assets/eatlah-2.png" />
+</div>
+## 🛠 Installation & Set Up
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/rdhss/ripebites.git
+   ```
+1. change dir
+   ```sh
+   cd ripebites
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Start the Application
+   ```sh
+   npm run dev
+   ```
