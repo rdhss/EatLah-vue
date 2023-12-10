@@ -20,6 +20,7 @@ RipeBites is webapp that allows customers to order food from restaurants, cafes,
 <div align="center">
   <img alt="Logo" src="./src/assets/eatlah-2.png" />
 </div>
+
 ## 🛠 Installation & Set Up
 
 1. Clone the repo
