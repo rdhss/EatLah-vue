@@ -105,8 +105,7 @@ export const useMenuStore = defineStore('menu', () => {
 
   const newMenuCart = () => {
     listOfCart.value[0].menu = []
-    console.log(listOfCart.value[0]);
-    
+    listOfCart.value[0].totalPrice = 0
     saveCartAPI()
   }
 
