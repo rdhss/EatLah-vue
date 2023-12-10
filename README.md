@@ -1,21 +1,21 @@
 <h1 align="center">
-  RipeBites
+  EatLah
 </h1>
 
 ## Description
 
-RipeBites is webapp that allows customers to order food from restaurants, cafes, and other food establishments and have it delivered directly to their doorstep
+EatLah is webapp that allows customers to order food from restaurants, cafes, and other food establishments and have it delivered directly to their doorstep
 
 ## Built With
 
-- [Next.js]
+- [Vue.js]
 - [Tailwindcss]
+- [axios]
 
 
 ## Demo
 <div align="center">
   <img alt="Logo" src="./src/assets/eatlah-1.png" />
-
 </div>
 
 <div align="center">
