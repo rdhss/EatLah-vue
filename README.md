@@ -25,11 +25,11 @@ RipeBites is webapp that allows customers to order food from restaurants, cafes,
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/rdhss/ripebites.git
+   git clone https://github.com/rdhss/EatLah-vue.git
    ```
 1. change dir
    ```sh
-   cd ripebites
+   cd EatLah-vue
    ```
 2. Install NPM packages
    ```sh
@@ -37,5 +37,5 @@ RipeBites is webapp that allows customers to order food from restaurants, cafes,
    ```
 3. Start the Application
    ```sh
-   npm run dev
+   npm run serve
    ```
